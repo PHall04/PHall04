@@ -9,7 +9,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <h3> ❔ &nbsp;Who am I  ❔</h3>
-<p align="left">Who am I</p>
+<p align="left">My name is Paul Hall but most call me PJ. I have studied IT/Computer Science since I was 11 but have had
+an interest in the field for as long as i can remember. Over my learning process i have produced, applications, websites and small games each with the intent to develop my skills further. I am looking into a career in software development and I am seeking a junior/entry-level role.</p>
+
 <!--
 **PHall04/PHall04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
