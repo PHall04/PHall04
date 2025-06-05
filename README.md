@@ -3,7 +3,7 @@
 </p>
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
-  <img style="max-width: 75; max-height: 75" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
