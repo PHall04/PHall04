@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-<h3> ❔ &nbsp;Who am i❔</h3>
+<h3> ❔ &nbsp;Who am I  ❔</h3>
 <div>
   <p align="left">Who am I</p>
 </div>
