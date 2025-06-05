@@ -3,9 +3,11 @@
 </p>
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
-  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"/>
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/>
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/MySQL.svg"/>
+  <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"/>
 </p>
 <h2> ❔ &nbsp;Who am I  ❔</h2>
 <p align="left">My name is Paul Hall but most call me PJ. I have studied IT/Computer Science since I was 11 but have had
