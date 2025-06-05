@@ -16,7 +16,7 @@ an interest in the field for as long as i can remember. Over my learning process
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Fun%20fact:%20My%20highest%20grade%20going%20into%20A-levels%20was%20actually%20in%20Art%20where%20i%20received%20a%209.%20I%20just%20enjoyed%20computing%20so%20much%20i%20had%20to%20pursue%20it!&fontSize=11&textBg=true"/>
 </p>
-<h5> 📚 &nbsp;What am I learning next?  📚</h5>
+<h4> 📚 &nbsp;What am I learning next?  📚</h4>
 <!--
 **PHall04/PHall04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
