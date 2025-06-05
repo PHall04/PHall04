@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Welcome%20!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20!&fontSize=50" />
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>🕹️
 <p align="left">
