@@ -3,7 +3,7 @@
 </p>
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F27127463-javascript-logo-png-javascript-icon-transparent-png&psig=AOvVaw3_deYK_Oy6N07SWiopxKsm&ust=1749209525253000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjNg7WX2o0DFQAAAAAdAAAAABAK">
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
