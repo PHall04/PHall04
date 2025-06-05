@@ -9,9 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <h3> ❔ &nbsp;Who am I  ❔</h3>
-<div>
-  <p align="left">Who am I</p>
-</div>
+<p align="left">Who am I</p>
 <!--
 **PHall04/PHall04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
