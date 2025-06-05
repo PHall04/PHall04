@@ -22,6 +22,7 @@ Outside of C# I am currently looking into Python and in particular Tensorflow as
 <h3>💬 &nbsp;Ask me about?  💬</h3>
   <p>I have lifelong interests in: Videogames, Alt/Indie Music, Gardening and Neurodiverse Awareness, feel free to ask me about them. I could talk endlessly about any of these !</p>
 <h3>📫 &nbsp;How to reach me?  📫</h3>
+<p>The best way to reach me is at my work email which is linked to this GIT account. However for those that want it here it is: paulhallwork@gmail.com</p>
 <!--
 **PHall04/PHall04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
