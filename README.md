@@ -2,13 +2,13 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20!&fontSize=50" />
 </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>🕹️
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-<h3>❔Who am i❔</h3>
+<h3> ❔ &nbsp;Who am i❔</h3>
 <div>
   <p align="left">Who am I</p>
 </div>
