@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=White&height=100&section=header&text=Welcome%20!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20!&fontSize=50" />
 </p>
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
