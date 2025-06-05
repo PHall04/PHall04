@@ -19,7 +19,7 @@ an interest in the field for as long as i can remember. Over my learning process
 <h3> 📚 &nbsp;What am I learning next?  📚</h3>
 <p>While seeking employment I have decided to teach myself how to use Monogame in C# to develop games using a base engine that is configurable. I hope this project will improve my understanding C# development as it will require a higher level of planning as well as necssitating the use of more complex C# code.
 Outside of C# I am currently looking into Python and in particular Tensorflow as having the basic understanding of the language combined with knowledge of implementing AI APIS is enormously beneficial in a world ever impacted by newer AI models.</p>
-<h3>💬 &nbsp;Ask me about?  💬h3>
+<h3>💬 &nbsp;Ask me about?  💬</h3>
   <p>I have lifelong interests in: Videogames, Alt/Indie Music, Gardening and Neurodiverse Awareness, feel free to ask me about them. I could talk endlessly about any of these !</p>
 <h3>📫 &nbsp;How to reach me?  📫</h3>
 <!--
