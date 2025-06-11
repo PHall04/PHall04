@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20!&fontSize=90" />
 </p>
 <h3> ❔ &nbsp;Who am I  ❔</h3>
 <p align="left">My name is Paul Hall but most call me PJ. I have studied IT/Computer Science since I was 11 but have had
